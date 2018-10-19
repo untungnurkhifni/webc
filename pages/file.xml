@@ -1,23 +1,15 @@
-<?xml version="1.0" encoding="utf-8"?>
-
-    <records>
-        <employee>
-            <name>Sairamkrishna</name>
-            <surname>Mammahe</surname>
-            <salary>50000</salary>
-        </employee>
-
-        <employee>
-            <name>Gopal </name>
-            <surname>Varma</surname>
-            <salary>60000</salary>
-        </employee>
-
-        <employee>
-            <name>Raja</name>
-            <surname>Hr</surname>
-            <salary>70000</salary>
-        </employee>
-
-    </records>
-
+<?xml version="1.0" encoding="UTF-8"?>
+<feed>
+ 
+<article>
+ <title>Android Tutorial – Switch Between Activity With Android Button Click For Beginner</title>
+ <link url="https://seegatesite.com/android-tutorial-switch-between-activity-with-android-button-click-for-beginner/" />
+</article>
+ 
+ 
+<article>
+ <title>[ Problems Solved ] – Fixed ADB Not Responding On Android Studio Or Eclipse</title>
+ <link url="https://seegatesite.com/problems-solved-fixed-adb-not-responding-on-android-studio-or-eclipse/" />
+</article>
+ 
+</feed>
